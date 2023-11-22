@@ -1,4 +1,15 @@
 body{
-    background: ;
+    background: #0000FF;
+}
 
+h1{
+    text-align: center;
+}
+p{
+   text-align: center;
+
+}
+
+em strog{
+    color:#000000;
 }
